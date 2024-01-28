@@ -41,7 +41,7 @@ Somos um grupo dedicado à excelência técnica, inovação e colaboração na �
         <td></td>
         <td align="center" colspan="2">
             <img align="center" src="github-mark-white.svg" width="17" height="17" />
-            <code><a href="https://github.com/ControlZ-DevTeam">GitHub</a></code>
+            <code><a href="https://github.com/Puffl1y">GitHub</a></code>
         </td>
         <td></td>
         <td align="center" colspan="2">
