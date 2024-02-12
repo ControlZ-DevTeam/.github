@@ -46,6 +46,6 @@ Somos um grupo dedicado à excelência técnica, inovação e colaboração na �
         <td></td>
         <td align="center" colspan="2">
             <img align="center" src="github-mark-white.svg" width="17" height="17" />
-            <code><a href="https://github.com/ControlZ-DevTeam">GitHub</a></code>
+            <code><a href="https://github.com/Mer4kiz">GitHub</a></code>
         </td>
 </table>
